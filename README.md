@@ -1,1 +1,2 @@
 # stic
+and stones
